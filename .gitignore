@@ -84,3 +84,6 @@ typings/
 
 # VS Code directory
 .vscode/
+
+# Mac files
+.DS_Store
